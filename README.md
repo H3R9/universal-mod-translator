@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚔️ Universal Mod Translator ⚡
-
+# Aviso: infelizmente o GUI esta Parcialmente Quebrado
 ### *Traduza mods de qualquer jogo para qualquer idioma com velocidade de raio!*
 
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -987,3 +987,4 @@ Feito com ❤️ e ⚡ por desenvolvedores para desenvolvedores.
 **2025** • Universal Mod Translator • ⚔️ Traduza. Jogue. Conquiste. ⚡
 
 </div>
+
