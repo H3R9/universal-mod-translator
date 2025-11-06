@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Cache (não commitamos traduções, só estrutura)
+Cache/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.bak
+~$*
+
+# Dados pessoais (exemplo Valheim)
+Original/collected_items.yaml
+Traduzido/translations.yaml
